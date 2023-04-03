@@ -1,6 +1,17 @@
 h1{
     text-align: center;
-    color: rgb(255, 0, 255);
-    font-size: 100px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(255, 182, 217);
+    font-size: 75px;
+    font-family: sans-serif;
+}
+
+h3{
+    color: rgb(155, 208, 226);
+
+}
+
+h4{
+    border-radius: 20%;
+    border-color:rgb(52, 124, 146);
+    color:rgb(0, 0, 0)
 }
